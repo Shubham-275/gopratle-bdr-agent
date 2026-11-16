@@ -1,0 +1,6 @@
+.env
+service_account.json
+leads.csv
+demo_leads.csv
+__pycache__/
+.pytest_cache/

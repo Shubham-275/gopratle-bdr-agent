@@ -1,0 +1,5 @@
+requests>=2.31
+python-dotenv>=1.0
+anthropic>=0.40      # optional: smarter extraction + pitches (falls back to heuristics/templates)
+gspread>=6.0         # only for SHEET_BACKEND=google
+ddgs>=9.0            # only for SEARCH_PROVIDER=ddgs (keyless search)
